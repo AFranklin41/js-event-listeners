@@ -1,0 +1,29 @@
+/* #main-article{
+    display: flex;
+    border: solid lightblue 1px;
+    margin-right: 1em;
+    width: 50vw;
+}
+
+#sub-article{
+    display: flex;
+    border: solid lightcoral 1px;
+    margin-right: 1em;
+    width: 50vw;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-flow: row nowrap;
+    border: solid 1px black;
+} */
+
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
